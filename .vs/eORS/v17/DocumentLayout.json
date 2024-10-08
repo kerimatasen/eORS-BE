@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\source\\repos\\eORS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\handlers\\students\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\handlers\\students\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620458F2-E8AA-4F17-8D33-708D2C29455B}|eORS.API\\eORS.API.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620458F2-E8AA-4F17-8D33-708D2C29455B}|eORS.API\\eORS.API.csproj|solutionrelative:eors.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\commands\\students\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\commands\\students\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\handlers\\students\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\handlers\\students\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\commands\\students\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\commands\\students\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|solutionrelative:eors.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|solutionrelative:eors.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620458F2-E8AA-4F17-8D33-708D2C29455B}|eORS.API\\eORS.API.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.api\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620458F2-E8AA-4F17-8D33-708D2C29455B}|eORS.API\\eORS.API.csproj|solutionrelative:eors.api\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620458F2-E8AA-4F17-8D33-708D2C29455B}|eORS.API\\eORS.API.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620458F2-E8AA-4F17-8D33-708D2C29455B}|eORS.API\\eORS.API.csproj|solutionrelative:eors.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620458F2-E8AA-4F17-8D33-708D2C29455B}|eORS.API\\eORS.API.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620458F2-E8AA-4F17-8D33-708D2C29455B}|eORS.API\\eORS.API.csproj|solutionrelative:eors.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620458F2-E8AA-4F17-8D33-708D2C29455B}|eORS.API\\eORS.API.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620458F2-E8AA-4F17-8D33-708D2C29455B}|eORS.API\\eORS.API.csproj|solutionrelative:eors.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\handlers\\course\\addcoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\handlers\\course\\addcoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620458F2-E8AA-4F17-8D33-708D2C29455B}|eORS.API\\eORS.API.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.api\\controllers\\teacherschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620458F2-E8AA-4F17-8D33-708D2C29455B}|eORS.API\\eORS.API.csproj|solutionrelative:eors.api\\controllers\\teacherschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\handlers\\course\\updatecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\handlers\\course\\updatecoursecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|solutionrelative:eors.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\commands\\course\\updatecoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\commands\\course\\updatecoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\commands\\course\\addcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\commands\\course\\addcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|solutionrelative:eors.domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\queries\\teacherschedulesquery\\getteacherschedulebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\queries\\teacherschedulesquery\\getteacherschedulebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\handlers\\addappointment\\addappointmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\handlers\\addappointment\\addappointmenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.domain\\entities\\teacherschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|solutionrelative:eors.domain\\entities\\teacherschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\commands\\students\\addstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\commands\\students\\addstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\handlers\\students\\getallstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\handlers\\students\\getallstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|solutionrelative:eors.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|solutionrelative:eors.domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\handlers\\students\\addstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\handlers\\students\\addstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|solutionrelative:eors.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|solutionrelative:eors.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.domain\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|solutionrelative:eors.domain\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|solutionrelative:eors.domain\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|solutionrelative:eors.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\handlers\\teachers\\addteacherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\handlers\\teachers\\addteacherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\queries\\students\\getallstudentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\queries\\students\\getallstudentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\handlers\\addappointment\\getstudentappointmentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\handlers\\addappointment\\getstudentappointmentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|solutionrelative:eors.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.domain\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|solutionrelative:eors.domain\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.domain\\interfaces\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|solutionrelative:eors.domain\\interfaces\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.infrastructure\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|solutionrelative:eors.infrastructure\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\queries\\teachers\\getallteachershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\queries\\teachers\\getallteachershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\queries\\teachers\\getallteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\queries\\teachers\\getallteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.application\\commands\\teachers\\addteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D1A165-D317-4758-925C-71E356A3679A}|eORS.Application\\eORS.Application.csproj|solutionrelative:eors.application\\commands\\teachers\\addteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.domain\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|solutionrelative:eors.domain\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.infrastructure\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD564F7-675B-4EB5-ABE0-92CCA3356994}|eORS.Infrastructure\\eORS.Infrastructure.csproj|solutionrelative:eors.infrastructure\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|c:\\users\\abdul\\source\\repos\\eors\\eors.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832EF3AC-26AE-4588-B7C5-DC627FADF6FC}|eORS.Domain\\eORS.Domain.csproj|solutionrelative:eors.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Students\\DeleteStudentHandler.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Handlers\\Students\\DeleteStudentHandler.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Students\\DeleteStudentHandler.cs",
+              "RelativeToolTip": "eORS.Application\\Handlers\\Students\\DeleteStudentHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAjwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:29:44.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Students\\UpdateStudentHandler.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Handlers\\Students\\UpdateStudentHandler.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Students\\UpdateStudentHandler.cs",
+              "RelativeToolTip": "eORS.Application\\Handlers\\Students\\UpdateStudentHandler.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvyIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:06:27.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Commands\\Students\\DeleteStudentCommand.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Commands\\Students\\DeleteStudentCommand.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Commands\\Students\\DeleteStudentCommand.cs",
+              "RelativeToolTip": "eORS.Application\\Commands\\Students\\DeleteStudentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:05:51.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "eORS.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "eORS.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAIA8wBsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:46:35.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Commands\\Students\\UpdateStudentCommand.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Commands\\Students\\UpdateStudentCommand.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Commands\\Students\\UpdateStudentCommand.cs",
+              "RelativeToolTip": "eORS.Application\\Commands\\Students\\UpdateStudentCommand.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:05:17.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "eORS.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "eORS.Domain\\Entities\\Student.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:02:41.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.API\\Program.cs",
+              "RelativeDocumentMoniker": "eORS.API\\Program.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.API\\Program.cs",
+              "RelativeToolTip": "eORS.API\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAmwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:08:39.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateCourseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Commands\\Course\\UpdateCourseCommand.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Commands\\Course\\UpdateCourseCommand.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Commands\\Course\\UpdateCourseCommand.cs",
+              "RelativeToolTip": "eORS.Application\\Commands\\Course\\UpdateCourseCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:45:12.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.API\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "eORS.API\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.API\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "eORS.API\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwB0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:38:56.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "eORS.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "eORS.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:20:57.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "eORS.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "eORS.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:55:18.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.API\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "eORS.API\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.API\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "eORS.API\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:25:30.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddCourseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Course\\AddCourseCommandHandler.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Handlers\\Course\\AddCourseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Course\\AddCourseCommandHandler.cs",
+              "RelativeToolTip": "eORS.Application\\Handlers\\Course\\AddCourseCommandHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:10:01.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.API\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "eORS.API\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.API\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "eORS.API\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:42:14.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.API\\Controllers\\TeacherScheduleController.cs",
+              "RelativeDocumentMoniker": "eORS.API\\Controllers\\TeacherScheduleController.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.API\\Controllers\\TeacherScheduleController.cs",
+              "RelativeToolTip": "eORS.API\\Controllers\\TeacherScheduleController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:17:50.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetTeacherScheduleByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Queries\\TeacherSchedulesQuery\\GetTeacherScheduleByIdQuery.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Queries\\TeacherSchedulesQuery\\GetTeacherScheduleByIdQuery.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Queries\\TeacherSchedulesQuery\\GetTeacherScheduleByIdQuery.cs",
+              "RelativeToolTip": "eORS.Application\\Queries\\TeacherSchedulesQuery\\GetTeacherScheduleByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:19:14.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateCourseCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Course\\UpdateCourseCommandHandler.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Handlers\\Course\\UpdateCourseCommandHandler.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Course\\UpdateCourseCommandHandler.cs",
+              "RelativeToolTip": "eORS.Application\\Handlers\\Course\\UpdateCourseCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:46:14.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddCourseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Commands\\Course\\AddCourseCommand.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Commands\\Course\\AddCourseCommand.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Commands\\Course\\AddCourseCommand.cs",
+              "RelativeToolTip": "eORS.Application\\Commands\\Course\\AddCourseCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:57:18.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetAllStudentsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Students\\GetAllStudentsHandler.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Handlers\\Students\\GetAllStudentsHandler.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Students\\GetAllStudentsHandler.cs",
+              "RelativeToolTip": "eORS.Application\\Handlers\\Students\\GetAllStudentsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAD4vxkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:50:28.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "eORS.Domain\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "eORS.Domain\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:02:59.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Students\\AddStudentHandler.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Handlers\\Students\\AddStudentHandler.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Students\\AddStudentHandler.cs",
+              "RelativeToolTip": "eORS.Application\\Handlers\\Students\\AddStudentHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:49:44.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddAppointmentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\AddAppointment\\AddAppointmentHandler.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Handlers\\AddAppointment\\AddAppointmentHandler.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\AddAppointment\\AddAppointmentHandler.cs",
+              "RelativeToolTip": "eORS.Application\\Handlers\\AddAppointment\\AddAppointmentHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:15:01.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "eORS.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "eORS.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:52:44.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "eORS.Domain\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "eORS.Domain\\Entities\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:53:09.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeacherSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\TeacherSchedule.cs",
+              "RelativeDocumentMoniker": "eORS.Domain\\Entities\\TeacherSchedule.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\TeacherSchedule.cs",
+              "RelativeToolTip": "eORS.Domain\\Entities\\TeacherSchedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:03:36.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Commands\\Students\\AddStudentCommand.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Commands\\Students\\AddStudentCommand.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Commands\\Students\\AddStudentCommand.cs",
+              "RelativeToolTip": "eORS.Application\\Commands\\Students\\AddStudentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:40:26.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "eORS.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "eORS.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:19:34.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "eORS.Domain\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\Teacher.cs",
+              "RelativeToolTip": "eORS.Domain\\Entities\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:02:22.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "eORS.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "eORS.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA7wB4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:36.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "eORS.Domain\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Entities\\Company.cs",
+              "RelativeToolTip": "eORS.Domain\\Entities\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:01:54.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "eORS.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "eORS.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:10:52.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddTeacherHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Teachers\\AddTeacherHandler.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Handlers\\Teachers\\AddTeacherHandler.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\Teachers\\AddTeacherHandler.cs",
+              "RelativeToolTip": "eORS.Application\\Handlers\\Teachers\\AddTeacherHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:35:39.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetAllStudentsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Queries\\Students\\GetAllStudentsQuery.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Queries\\Students\\GetAllStudentsQuery.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Queries\\Students\\GetAllStudentsQuery.cs",
+              "RelativeToolTip": "eORS.Application\\Queries\\Students\\GetAllStudentsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:44:18.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetStudentAppointmentsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\AddAppointment\\GetStudentAppointmentsHandler.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Handlers\\AddAppointment\\GetStudentAppointmentsHandler.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Handlers\\AddAppointment\\GetStudentAppointmentsHandler.cs",
+              "RelativeToolTip": "eORS.Application\\Handlers\\AddAppointment\\GetStudentAppointmentsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:22:38.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "eORS.Domain\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "eORS.Domain\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:21:57.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "eORS.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "eORS.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:14:50.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Interfaces\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "eORS.Domain\\Interfaces\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Interfaces\\ITeacherRepository.cs",
+              "RelativeToolTip": "eORS.Domain\\Interfaces\\ITeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:16:25.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "eORS.Infrastructure\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "eORS.Infrastructure\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:16:53.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetAllTeachersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Queries\\Teachers\\GetAllTeachersHandler.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Queries\\Teachers\\GetAllTeachersHandler.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Queries\\Teachers\\GetAllTeachersHandler.cs",
+              "RelativeToolTip": "eORS.Application\\Queries\\Teachers\\GetAllTeachersHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:36:41.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GetAllTeachers.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Queries\\Teachers\\GetAllTeachers.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Queries\\Teachers\\GetAllTeachers.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Queries\\Teachers\\GetAllTeachers.cs",
+              "RelativeToolTip": "eORS.Application\\Queries\\Teachers\\GetAllTeachers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:36:16.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddTeacherCommand.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Commands\\Teachers\\AddTeacherCommand.cs",
+              "RelativeDocumentMoniker": "eORS.Application\\Commands\\Teachers\\AddTeacherCommand.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Application\\Commands\\Teachers\\AddTeacherCommand.cs",
+              "RelativeToolTip": "eORS.Application\\Commands\\Teachers\\AddTeacherCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:34:10.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Interfaces\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "eORS.Domain\\Interfaces\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Interfaces\\ICourseRepository.cs",
+              "RelativeToolTip": "eORS.Domain\\Interfaces\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:26:05.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "eORS.Infrastructure\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Infrastructure\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "eORS.Infrastructure\\Repositories\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:23:52.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "eORS.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\abdul\\source\\repos\\eORS\\eORS.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "eORS.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:18:12.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

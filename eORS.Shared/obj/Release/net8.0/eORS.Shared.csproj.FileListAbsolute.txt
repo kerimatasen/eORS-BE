@@ -1,0 +1,11 @@
+C:\Users\abdul\source\repos\eORS\eORS.Shared\bin\Release\net8.0\eORS.Shared.deps.json
+C:\Users\abdul\source\repos\eORS\eORS.Shared\bin\Release\net8.0\eORS.Shared.dll
+C:\Users\abdul\source\repos\eORS\eORS.Shared\bin\Release\net8.0\eORS.Shared.pdb
+C:\Users\abdul\source\repos\eORS\eORS.Shared\obj\Release\net8.0\eORS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\eORS\eORS.Shared\obj\Release\net8.0\eORS.Shared.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\eORS\eORS.Shared\obj\Release\net8.0\eORS.Shared.AssemblyInfo.cs
+C:\Users\abdul\source\repos\eORS\eORS.Shared\obj\Release\net8.0\eORS.Shared.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\eORS\eORS.Shared\obj\Release\net8.0\eORS.Shared.dll
+C:\Users\abdul\source\repos\eORS\eORS.Shared\obj\Release\net8.0\refint\eORS.Shared.dll
+C:\Users\abdul\source\repos\eORS\eORS.Shared\obj\Release\net8.0\eORS.Shared.pdb
+C:\Users\abdul\source\repos\eORS\eORS.Shared\obj\Release\net8.0\ref\eORS.Shared.dll
